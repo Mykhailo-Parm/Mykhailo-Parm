@@ -1,16 +1,53 @@
 ## Hi there 👋
 
-<!--
-**Mykhailo-Parm/Mykhailo-Parm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello! I'm Mykhailo Parm 
 
-Here are some ideas to get you started:
+🚀 **Software Engineer | Fachinformatiker (Application Development) Trainee | Computer Science Student**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+
+- 🎓 I'm a Computer Science student at Kharkiv National University of Radio Electronics.
+- 🇺🇦 Originally from Ukraine, currently residing in DE Germany.
+- 💡 Interested in creating modern web applications using React and Spring Boot.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### **Languages**
+- JavaScript/TypeScript
+- Java
+- Python
+
+### **Frameworks & Libraries**
+- React.js
+- Vue.js
+- Spring Boot
+
+### **Tools**
+- Git & GitHub
+- Docker
+- SQL/PostgreSQL
+- Postman
+
+---
+
+## 📂 My Projects
+
+### 🖥️ **Mood Tracker Web App**
+- A React-based app for tracking daily moods, activities, and emotions.
+- Includes dynamic components like an accordion for expanded views.
+
+---
+
+## 🌍 Connect with Me
+
+- 📧 Email: [mykhailo.parm.dev@gmail.com](mailto:mykhailo.parm.dev@gmail.com)
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/mykhailo-parm/)
+- 🐦 Twitter: [@hellm1ke](https://x.com/hellm1ke)
+
+---
+
+Thanks for stopping by! 😊
