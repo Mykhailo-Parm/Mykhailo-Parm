@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hello! I'm Mykhailo Parm 
 
 🚀 **Software Engineer | Fachinformatiker (Application Development) Trainee | Computer Science Student**
