@@ -44,8 +44,9 @@
 ## 🌍 Connect with Me
 
 - 📧 Email: [mykhailo.parm.dev@gmail.com](mailto:mykhailo.parm.dev@gmail.com)
-- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/mykhailo-parm/)
+- 💼 LinkedIn: [Mykhailo Parm](https://www.linkedin.com/in/mykhailo-parm/)
 - 🐦 Twitter: [@hellm1ke](https://x.com/hellm1ke)
+- ➿ Threads: [@mykhailo_parm?hl=e](https://www.threads.net/@mykhailo_parm)
 
 ---
 
