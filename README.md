@@ -36,7 +36,7 @@
 
 ## 📂 My Projects
 
-### 🖥️ **Mood Tracker Web App**
+### 🖥️ **[Mood Tracker Web App](https://github.com/Mykhailo-Parm/moodtrack)**
 - A React-based app for tracking daily moods, activities, and emotions.
 - Includes dynamic components like an accordion for expanded views.
 
