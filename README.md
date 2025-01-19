@@ -24,12 +24,6 @@
 - Vue.js
 - Spring Boot
 
-### **Tools**
-- Git & GitHub
-- Docker
-- SQL/PostgreSQL
-- Postman
-
 ---
 
 ## 📂 My Projects
